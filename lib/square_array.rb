@@ -9,3 +9,4 @@ def square_array(array)
 count +=1
   return new_array
 end
+end
