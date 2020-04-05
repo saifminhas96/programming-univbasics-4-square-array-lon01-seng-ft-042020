@@ -5,7 +5,7 @@ def square_array(array)
    new_array = []
    count = 0
    while count < numbers.length
- array **  << new_array
+ array ** 2 << new_array
 count +=1
   return new_array
 end
